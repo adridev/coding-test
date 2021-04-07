@@ -5,7 +5,6 @@ __Create an application that implements the next user story__
 
 __Optionally__ 
 -  As a merchant I want to get my transactions filtered by a minimum amount and a specific status. 
--  As a merchant I want to be sure that my connection to the API is secure. 
 
 #### CONTEXT 
 - The application is expected to handle thousands of reqs/secs in the next years (not now) 
