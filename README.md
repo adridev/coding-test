@@ -13,7 +13,7 @@ __Optionally__
 
 #### TECHNICAL DETAILS
 - The application should be written in the Java programming language using SpringBoot framework
-- Provided GIT repo will contain the datasource to be consumed from the application. Application MUST consume it from https://github.com/adridev/coding-test/raw/master/DDPG-test.json. It should not copy/paste the json to the actual application.
+- Provided GIT repo will contain the datasource to be consumed from the application. Application MUST consume it using an HTTP client from https://github.com/adridev/coding-test/raw/master/DDPG-test.json. It should not copy/paste the json to the actual application.
 - The application should expose a REST interface.
 - The application should be delivered as a docker image.
 - Provide the solution at a GIT repo with any needed instructions to execute the app. Fell free to add any explanation about the arquitecture or the approach taken
